@@ -11,7 +11,7 @@ I dream to learn OCaml and Haskell as well as all that crazy type systems stuff 
 | Platform                | Link                                     | Description                                                                                |
 |:-----------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
 | ![IDEA][intellij-idea]  | [intellij-ron-remix][intellij-ron-remix] | [Rusty Object Notation][ron] format support                                                |
-| [Kaitai-Struct][kaitai] | [orom-file-formats][orom-file-formats]   | Specification of binary formats used in a game [Rage Of Mages][rage-of-mages]              |
+| ![Kaitai][Kaitai-badge] | [orom-file-formats][orom-file-formats]   | Specification of binary formats used in a game [Rage Of Mages][rage-of-mages]              |
 | ![Rust][rust-lib]       | [rom-res-rs][rom-res-rs]                 | Loading .RES file of [Rage Of Mages][rage-of-mages] made for [OROM][OROM]                  |
 | ![Rust][rust-lib]       | [rom-loaders-rs][rom-loaders-rs]         | Loading interal file formats of [Rage Of Mages][rage-of-mages] made for [OROM][OROM]       |
 | ![Rust][rust-lib]       | [rom-media-rs][orom-file-formats]        | Core facilities for render images, play sounds and generally move pictures in [OROM][OROM] |
@@ -28,7 +28,7 @@ I dream to learn OCaml and Haskell as well as all that crazy type systems stuff 
 [edu-json-parser]: https://github.com/madwareru/edu-json-parser
 [rust-lib]: https://img.shields.io/badge/Rust-library-grey?logo=rust&labelColor=202020
 [intellij-idea]: https://img.shields.io/badge/Intellij_IDEA-plugin-grey?logo=intellij-idea&labelColor=202020
-[kaitai]: https://kaitai.io/
+[Kaitai-badge]: https://img.shields.io/badge/Kaitai--Struct-spec-grey?labelColor=202020
 
 <!--
 **madwareru/madwareru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
