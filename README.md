@@ -11,7 +11,7 @@ I dream to learn OCaml and Haskell as well as all that crazy type systems stuff 
 | Link                                     | Description                                                                                                        |
 |:----------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|
 | [intellij-ron-remix][intellij-ron-remix] | Intellij IDEA plugin for [Rusty Object Notation][ron] format support                                               |
-| [orom-file-formats][orom-file-formats]   | Specification of binary formats used in a game [Rage Of Mages][rage-of-mages]                                      |
+| [orom-file-formats][orom-file-formats]   | [Kaitai struct](https://kaitai.io/) Specification of binary formats used in a game [Rage Of Mages][rage-of-mages]  |
 | [rom-res-rs][rom-res-rs]                 | Rust library for loading .RES file of [Rage Of Mages][rage-of-mages] made for [OROM][OROM]                         |
 | [rom-loaders-rs][rom-loaders-rs]         | Rust library for loading interal file formats of [Rage Of Mages][rage-of-mages] made for [OROM][OROM]              |
 | [rom-media-rs][orom-file-formats]        | Rust library with core facilities for render images, play sounds and generally move pictures in [OROM][OROM]       |
