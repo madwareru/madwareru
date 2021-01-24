@@ -8,14 +8,14 @@ I'm also doing some stuff in Kotlin and hugely interested in things oriented on 
 I dream to learn OCaml and Haskell as well as all that crazy type systems stuff to play in higher league of compiler development
 
 #### 🔭 These are my most interesting repos:
-| Platform                | Link                                     | Description                                                                                |
-|:-----------------------:|:----------------------------------------:|:------------------------------------------------------------------------------------------:|
-| ![IDEA][intellij-idea]  | [intellij-ron-remix][intellij-ron-remix] | [Rusty Object Notation][ron] format support                                                |
-| ![Kaitai][Kaitai-badge] | [orom-file-formats][orom-file-formats]   | Specification of binary formats used in a game [Rage Of Mages][rage-of-mages]              |
-| ![Rust][rust-lib]       | [rom-res-rs][rom-res-rs]                 | Loading .RES file of [Rage Of Mages][rage-of-mages] made for [OROM][OROM]                  |
-| ![Rust][rust-lib]       | [rom-loaders-rs][rom-loaders-rs]         | Loading interal file formats of [Rage Of Mages][rage-of-mages] made for [OROM][OROM]       |
-| ![Rust][rust-lib]       | [rom-media-rs][orom-file-formats]        | Core facilities for render images, play sounds and generally move pictures in [OROM][OROM] |
-| ![Rust][rust-lib]       | [edu-json-parser][edu-json-parser]       | Self-educational yet full featured JSON parser written in Rust                             |
+| Platform                | Link                                       | Description                                                                          |
+|:-----------------------:|:------------------------------------------:|:------------------------------------------------------------------------------------:|
+| ![IDEA][intellij-idea]  | [intellij-ron-remix][intellij-ron-remix]   | [Rusty Object Notation][ron] format support                                          |
+| ![Kaitai][Kaitai-badge] | [orom-file-formats][orom-file-formats]     | Specification of binary formats used in a game [Rage Of Mages][rage-of-mages]        |
+| ![Rust][rust-lib]       | [rom-res-rs][rom-res-rs]                   | Loading .RES file of [Rage Of Mages][rage-of-mages] made for [OROM][OROM]            |
+| ![Rust][rust-lib]       | [rom-loaders-rs][rom-loaders-rs]           | Loading interal file formats of [Rage Of Mages][rage-of-mages] made for [OROM][OROM] |
+| ![Rust][rust-lib]       | [rom-media-rs][orom-file-formats]          | Rendering images, play sounds and generally move pictures in [OROM][OROM]            |
+| ![Rust][rust-lib]       | [edu-json-parser][edu-json-parser]         | Self-educational yet full featured JSON parser written in Rust                       |
 
 [intellij-ron-remix]: https://github.com/madwareru/intellij-ron-remix
 [ron]: https://github.com/ron-rs/ron
