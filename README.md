@@ -26,8 +26,8 @@ I dream to learn OCaml and Haskell as well as all that crazy type systems stuff 
 [rom-media-rs]: https://github.com/madwareru/rom-media-rs
 [OROM]: https://github.com/users/madwareru/projects/1
 [edu-json-parser]: https://github.com/madwareru/edu-json-parser
-[rust-lib]: https://img.shields.io/badge/Rust-library-grey?logo=rust
-[intellij-idea]: https://img.shields.io/badge/Intellij_IDEA-plugin-grey?logo=intellij-idea
+[rust-lib]: https://img.shields.io/badge/Rust-library-grey?logo=rust&labelColor=202020
+[intellij-idea]: https://img.shields.io/badge/Intellij_IDEA-plugin-grey?logo=intellij-idea&labelColor=202020
 [kaitai]: https://kaitai.io/
 
 <!--
