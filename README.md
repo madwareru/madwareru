@@ -16,6 +16,8 @@ I dream to learn OCaml and Haskell as well as all that crazy type systems stuff 
 | ![Rust][rust-lib]       | [rom-loaders-rs][rom-loaders-rs]           | Loading interal file formats of [Rage Of Mages][rage-of-mages] made for [OROM][OROM] |
 | ![Rust][rust-lib]       | [rom-media-rs][orom-file-formats]          | Rendering images, play sounds and generally move pictures in [OROM][OROM]            |
 | ![Rust][rust-lib]       | [edu-json-parser][edu-json-parser]         | Self-educational yet full featured JSON parser written in Rust                       |
+| ![Rust][rust-lib]       | [simple-tiled-wfc][simple-tiled-wfc]       | A simple implementation of Wave Function Collapse algorithm                          |
+| ![Rust][rust-lib]       | [ply-generator][ply-generator]             | RTS-style Terrain generator. Uses [ply-generator][ply-generator]                     |
 
 [intellij-ron-remix]: https://github.com/madwareru/intellij-ron-remix
 [ron]: https://github.com/ron-rs/ron
@@ -26,6 +28,8 @@ I dream to learn OCaml and Haskell as well as all that crazy type systems stuff 
 [rom-media-rs]: https://github.com/madwareru/rom-media-rs
 [OROM]: https://github.com/users/madwareru/projects/1
 [edu-json-parser]: https://github.com/madwareru/edu-json-parser
+[simple-tiled-wfc]: https://github.com/madwareru/simple-tiled-wfc
+[ply-generator]: https://github.com/madwareru/ply-generator
 [rust-lib]: https://img.shields.io/badge/Rust-library-grey?logo=rust&labelColor=202020
 [intellij-idea]: https://img.shields.io/badge/Intellij_IDEA-plugin-grey?logo=intellij-idea&labelColor=202020
 [Kaitai-badge]: https://img.shields.io/badge/Kaitai--Struct-spec-grey?labelColor=202020
