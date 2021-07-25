@@ -17,7 +17,7 @@ I dream to learn OCaml and Haskell as well as all that crazy type systems stuff 
 | ![Rust][rust-lib]       | [rom-media-rs][orom-file-formats]          | Rendering images, play sounds and generally move pictures in [OROM][OROM]            |
 | ![Rust][rust-lib]       | [edu-json-parser][edu-json-parser]         | Self-educational yet full featured JSON parser written in Rust                       |
 | ![Rust][rust-lib]       | [simple-tiled-wfc][simple-tiled-wfc]       | A simple implementation of Wave Function Collapse algorithm                          |
-| ![Rust][rust-lib]       | [ply-generator][ply-generator]             | RTS-style Terrain generator. Uses [ply-generator][ply-generator]                     |
+| ![Rust][rust-lib]       | [ply-generator][ply-generator]             | RTS-style Terrain generator. Uses [simple-tiled-wfc][simple-tiled-wfc]               |
 
 [intellij-ron-remix]: https://github.com/madwareru/intellij-ron-remix
 [ron]: https://github.com/ron-rs/ron
