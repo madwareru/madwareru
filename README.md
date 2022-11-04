@@ -19,6 +19,8 @@ I dream to learn OCaml and Haskell as well as all that crazy type systems stuff 
 | ![Rust][rust-lib]       | [simple-tiled-wfc][simple-tiled-wfc]       | A simple implementation of Wave Function Collapse algorithm                          |
 | ![Rust][rust-lib]       | [ply-generator][ply-generator]             | RTS-style Terrain generator. Uses [simple-tiled-wfc][simple-tiled-wfc]               |
 
+You can find me at <a rel="me" href="https://mastodon.gamedev.place/@madware">Mastodon</a>, <a rel="me" href="https://twitter.com/madware_ru">Twitter</a>, or at <a rel="me" href="https://gamedev.ru/users/?id=41788">Gamedev.ru</a>. There is also a <a rel="me" href="https://t.me/obscure_computer_science">blog on telegram in russian</a>.
+
 [intellij-ron-remix]: https://github.com/madwareru/intellij-ron-remix
 [ron]: https://github.com/ron-rs/ron
 [orom-file-formats]: https://github.com/madwareru/orom-file-formats
